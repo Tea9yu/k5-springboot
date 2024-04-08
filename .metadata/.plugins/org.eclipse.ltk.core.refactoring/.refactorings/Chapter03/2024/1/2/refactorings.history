@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;edu.pnu.service.MemberSerivce&apos; to &apos;MemberService&apos;&#x0D;&#x0A;- Original project: &apos;Chapter03&apos;&#x0D;&#x0A;- Original element: &apos;edu.pnu.service.MemberSerivce&apos;&#x0D;&#x0A;- Renamed element: &apos;edu.pnu.service.MemberService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MemberSerivce&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;edu.pnu.service{MemberSerivce.java[MemberSerivce" matchStrategy="1" name="MemberService" qualified="false" references="true" similarDeclarations="false" stamp="1704772729757" textual="false" version="1.0"/>
+</session>
